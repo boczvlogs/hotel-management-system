@@ -2,7 +2,7 @@
 
     def __init__(self,rt='',s=0,p=0,r=0,t=0,a=1000,name='',address='',cindate='',coutdate='',rno=1):
  
-        print ("\n\n****************WELCOME TO HOTEl DE Bocz v3.1******************\n")
+        print ("\n\n****************WELCOME TO HOTEl DE Bocz v4******************\n")
         self.rt=rt 
         self.r=r
         self.t=t 
@@ -162,4 +162,4 @@ main()
 // Consume the newline character Version 7.1
 // End of Qotation
 # Agoo MSFT inc. 2024-
-# FirmsBuilders V2.1
+# FirmsBuilders V3 9/04/2024
