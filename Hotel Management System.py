@@ -112,7 +112,7 @@
         print ("Check in date:",self.cindate)
         print ("Check out date",self.coutdate)
         print ("Room no.",self.rno)
-        print ("Your Room rent is:",self.s)
+        print ("Your Room rent is:",self.s) 
         print ("Your Food bill is:",self.r)
  
         self.rt=self.s+self.t+self.p+self.r
